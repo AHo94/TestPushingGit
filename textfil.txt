@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Hallo World!
-=======
+
 Hallo
 Alex skriver noe mer
->>>>>>> origin/master
+
