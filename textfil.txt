@@ -3,6 +3,47 @@ Hallo World!
 Hallo
 Alex skriver noe mer
 
+
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+vvi hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+vvvvi hate this shit because luke said so
+i hate this shit because luke said so
+vi hate this shit because luke said so
+vvvvvvi hate this shit because luke said so
+i hate this shit because luke said so
+vvvvvi hate this shit because luke said so
+i hate this shit because luke said so
+vi hate this shit because luke said so
+i hate this shit because luke said so
+vvi hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+i hate this shit because luke said so
+v
+
+
 git add .
 git commit -m "First commit" # make the first commit
 git branch testBranch # create branch
@@ -74,3 +115,4 @@ git commit -m "Added another file"
 git log --graph --oneline --decorate --all
 # This command is long, so shorten it using aliases
 git config --global alias.lg 'log --graph --oneline --decorate --all'
+
